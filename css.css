@@ -1,0 +1,23 @@
+#outbox{
+     background-color: blue;
+     width: 400px;
+     margin-left: 100px;
+     margin-top: 40px;
+     padding: 1px 9px 9px 10px;
+     border: 10px solid rgba(189, 35, 35, 0.534);
+     border-radius: 10px;
+}
+#inner-box{
+     background-color: red;
+     color: white;
+     border-radius: 5px;
+     padding-left: 20px;
+     margin-top: -17px;
+     height: 30px;
+     
+}
+#first-box,#second-box{
+     color: yellow;
+     padding-bottom: 10px;
+     
+}
